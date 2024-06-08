@@ -1,0 +1,21 @@
+[book]
+authors = ["rsteube"]
+language = "en"
+multilingual = false
+src = "src"
+title = "tabdance"
+description = ""
+
+[output.html]
+default-theme = "Latte"
+preferred-dark-theme = "Mocha"
+additional-css = ["asciinema/asciinema-player.css", "./theme/catppuccin.css", "./theme/custom.css"]
+additional-js = ["asciinema/asciinema-player.min.js", "asciinema/load.js"]
+git-repository-url = "https://github.com/tab-dance/tab.dance"
+edit-url-template = "https://github.com/tab-dance/tab.dance/edit/master/docs/{path}"
+
+[output.html.fold]
+enable = true
+
+[output.linkcheck]
+follow-web-links = true
