@@ -1,0 +1,11 @@
+h3 {
+  line-height: 1.45em;
+  margin-block-start: 1em;
+  margin-block-end: -1em;
+  font-size: 1.6rem;
+  font-weight: initial;
+}
+
+#menu-bar-hover-placeholder {
+  position: relative;
+}
