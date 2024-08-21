@@ -1,0 +1,24 @@
+<svg width="500px" height="500px" xmlns="http://www.w3.org/2000/svg">
+
+<rect fill="#fefffe" x="113.5" y="163.5" width="40" height="40" />
+<rect fill="#fefffe" x="157.5" y="163.5" width="40" height="40" />
+<rect fill="#fefffe" x="201.5" y="163.5" width="40" height="40" />
+
+<rect fill="#fefffe" x="85.5" y="207.5" width="40" height="40" />
+<rect fill="#fefffe" x="129.5" y="207.5" width="40" height="40" />
+<rect fill="#fefffe" x="173.5" y="207.5" width="40" height="40" />
+
+<rect fill="#fefffe" x="65.5" y="251.5" width="40" height="40" />
+<rect fill="#fefffe" x="109.5" y="251.5" width="40" height="40" />
+<rect fill="#fefffe" x="153.5" y="251.5" width="40" height="40" />
+
+<rect fill="#fefffe" x="87.5" y="295.5" width="40" height="40" />
+<rect fill="#fefffe" x="131.5" y="295.5" width="40" height="40" />
+<rect fill="#fefffe" x="175.5" y="295.5" width="40" height="40" />
+
+
+<rect fill="#fefffe" x="349.5" y="207.5" width="40" height="40" />
+<rect fill="#fefffe" x="329.5" y="251.5" width="40" height="40" />
+
+<path fill="#fefffe" d="M 393.5,207.5  433.5,207.5 433.5,291.5 373.5,291.5 373.5,251.5 393.5,251.5 393.5,207.5 Z" />
+</svg>
